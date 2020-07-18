@@ -17,13 +17,15 @@ Feel free to [email me][email] or send me [a tweet][Twitter].
 ### Follow me
 
 - [Blog][]
-- Twitter: [@jweslley](https://twitter.com/jweslley)
-- LinkedIn: [jweslley](https://www.linkedin.com/in/jweslley)
+- [Talks][]
+- [Twitter][]
+- [LinkedIn][]
 - [StackOverflow](https://stackoverflow.com/users/143665/jonhnny-weslley)
 
 > My username is usually **jweslley** on social media.
 
 [blog]: https://jonhnnyweslley.net/blog "Visit my blog"
+[talks]: https://jonhnnyweslley.net/talks "Check out my talks"
 [Credishop]: http://www.credishop.com.br/
 [repositories]: https://github.com/jweslley?tab=repositories "Follow my GitHub to see what I'm currently up to"
 [GitLab]: http://gitlab.com/jweslley "Follow my GitLab to see what I'm currently up to"
