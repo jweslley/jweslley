@@ -10,11 +10,11 @@ I am an open-source evangelist and sometimes I work on open-source stuff in my s
 
 If you're interested, check out my [blog][] to [see what I'm doing now](https://jonhnnyweslley.net/now).
 
-## Want to get in touch?
+### Want to get in touch?
 
 Feel free to [email me][email] or send me [a tweet][Twitter].
 
-## Follow me
+### Follow me
 
 - [Blog][]
 - Twitter: [@jweslley](https://twitter.com/jweslley)
