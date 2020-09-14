@@ -1,6 +1,6 @@
 ### Whoami
 
-Hi, I'm Jonhnny Weslley. I am a passionate full-stack developer and currently working as **Lead Software Engineer at [Credishop][]**.
+Hi, I'm Jonhnny Weslley. I am a passionate full-stack developer and currently working as **Software Engineer at [Railsware][]**.
 
 I am an open-source evangelist and sometimes I work on open-source stuff in my spare time. Check out my [repositories][] to see what I'm currently up to. Nowadays I am focused on pushing new skills to my stack: [machine learning][].
 
@@ -27,7 +27,7 @@ Feel free to [email me][email] or send me [a tweet][Twitter].
 [kaggle]: https://www.kaggle.com/jweslley 
 [blog]: https://jonhnnyweslley.net/blog "Visit my blog"
 [talks]: https://jonhnnyweslley.net/talks "Check out my talks"
-[Credishop]: http://www.credishop.com.br/
+[Railsware]: https://railsware.com/
 [repositories]: https://github.com/jweslley?tab=repositories "Follow my GitHub to see what I'm currently up to"
 [GitLab]: http://gitlab.com/jweslley "Follow my GitLab to see what I'm currently up to"
 [LinkedIn]: http://www.linkedin.com/in/jweslley "See my LinkedIn profile"
