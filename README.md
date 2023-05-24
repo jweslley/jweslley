@@ -21,8 +21,6 @@ Feel free to [email me][email] or send me [a tweet][Twitter].
 
 > My username is usually **jweslley** on social media.
 
-![Jonhnny Weslley's github stats](https://github-readme-stats.vercel.app/api?username=jweslley&show_icons=true&hide_border=true)
-
 
 [kaggle]: https://www.kaggle.com/jweslley 
 [blog]: https://jonhnnyweslley.net/blog "Visit my blog"
