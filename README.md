@@ -8,7 +8,7 @@ If you're interested, check out my [blog][] to [see what I'm doing now](https://
 
 ### Want to get in touch?
 
-Feel free to [email me][email] or send me [a tweet][Twitter].
+Feel free to [email me][email].
 
 ### Follow me
 
