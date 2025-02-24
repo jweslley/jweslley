@@ -17,7 +17,6 @@ Feel free to [email me][email] or send me [a tweet][Twitter].
 - [Twitter][]
 - [LinkedIn][]
 - [Kaggle][]
-- [StackOverflow](https://stackoverflow.com/users/143665/jonhnny-weslley)
 
 > My username is usually **jweslley** on social media.
 
